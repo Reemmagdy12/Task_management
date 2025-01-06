@@ -81,7 +81,7 @@ Setup Instructions
 
 1. Clone the repository:
 
-git clone <repository-url>
+git clone https://github.com/Reemmagdy12/Task_management.git
 cd task_management
 
 
